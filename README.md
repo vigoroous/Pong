@@ -12,5 +12,5 @@ Make sure you link project with: <b>audiere.lib</b>, <b>freeglut.lib</b>.
 # Development
 Pong is available under the GNU GPLv3 license.
 
-Project was developed by Vadim Perfilev, Bogdan Martyshevskii.<br>
+Project was developed by Bogdan Martyshevskii.<br>
 Contact us: vigoroous@yandex.ru
