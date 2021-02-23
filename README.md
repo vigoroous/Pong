@@ -1,5 +1,5 @@
 # Pong
-Pong - one of the earliest arcade video games. This repository contains remastered pong on C++
+Classic game written on C++
 
 # Building dependencies
 Pong depends of third party packages that are not included in the Pong source tree:
